@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.env
+result_*.csv
+processed_*.xlsx
+*_wordcloud.png
+*.png
+.DS_Store
+.ipynb_checkpoints/
